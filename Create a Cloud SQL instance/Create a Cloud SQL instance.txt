@@ -1,1 +1,1 @@
-Test
+gcloud sql instances create dbkopi --database-version=MYSQL_5_7 --root-password=k0p1 --region=us-central1
