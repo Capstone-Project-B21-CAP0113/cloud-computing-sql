@@ -1,12 +1,12 @@
 Create a Cloud SQL instance
 
-1. From the Navigation menu (Menu-13.png) click on SQL.
+1. From the Navigation menu click on SQL.
 
 2. Click Create Instance.
 
 3. Create your instance with the following settings:
 - Click choose MySQL
-- Type "myinstance" for Instance ID
+- Type "dbkopi" for Instance ID
 - In the password field click on the Generate link and the eye icon to see the password. Save the password, you'll need it in the next section.
 
 4. Use the default values for the other fields.
