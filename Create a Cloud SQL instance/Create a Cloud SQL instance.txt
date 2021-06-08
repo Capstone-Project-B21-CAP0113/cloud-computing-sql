@@ -1,1 +1,20 @@
-gcloud sql instances create dbkopi --database-version=MYSQL_5_7 --root-password=k0p1 --region=us-central1
+Create a Cloud SQL instance
+
+1. From the Navigation menu (Menu-13.png) click on SQL.
+
+2. Click Create Instance.
+
+3. Create your instance with the following settings:
+- Click choose MySQL
+- Type "myinstance" for Instance ID
+- In the password field click on the Generate link and the eye icon to see the password. Save the password, you'll need it in the next section.
+
+OR 
+
+1. In the Cloud Console, click the Cloud Shell icon in the upper right corner.
+
+2. Then click Continue.
+
+3. At the Cloud Shell prompt, create to your Cloud SQL instance by running the following:
+
+"gcloud sql instances create dbkopi --database-version=MYSQL_5_7 --root-password=k0p1 --region=us-central1"
