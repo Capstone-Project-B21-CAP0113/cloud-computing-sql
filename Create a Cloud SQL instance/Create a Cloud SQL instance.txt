@@ -9,6 +9,12 @@ Create a Cloud SQL instance
 - Type "myinstance" for Instance ID
 - In the password field click on the Generate link and the eye icon to see the password. Save the password, you'll need it in the next section.
 
+4. Use the default values for the other fields.
+
+5. Click Create Instance.
+
+6. After a few minutes the instance is created and you can continue to the next section. If it seems to be taking a long time, refresh your browser.
+
 OR 
 
 1. In the Cloud Console, click the Cloud Shell icon in the upper right corner.
